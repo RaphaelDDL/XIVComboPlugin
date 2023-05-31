@@ -1,7 +1,7 @@
 {
-  "Name": "XIV Combo",
+  "Name": "XIV Combo DDL",
   "Author": "Attick",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "Description": "DDL This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
   "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
   "Punchline": "PvP, but in PvE!",
   "Tags": [ "Combo" ],
